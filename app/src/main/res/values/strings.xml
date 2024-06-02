@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">mySqlite</string>
+    <string name="name">登録</string>
+    <string name="back">戻る</string>
+    <string name="id">ID</string>
+    <string name="password">Password</string>
+    <string name="set">登録</string>
+    <string name="del">削除</string>
+    <string name="delete">削除</string>
+</resources>
